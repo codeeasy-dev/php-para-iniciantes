@@ -9,6 +9,18 @@
 <p align="center">
     <img src="https://img.shields.io/github/license/codeeasy-dev/php-para-iniciantes" />
     <img src="https://img.shields.io/github/repo-size/codeeasy-dev/php-para-iniciantes" />
+    <a href="https://facebook.com/codeeasy.com.br" target="_blank">
+        <img src="https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&link=https://facebook.com/codeeasy.com.br" />
+    </a>
+    <a href="https://youtube.com/codeeasy" target="_blank">
+        <img src="https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&link=https://youtube.com/codeeasy" />
+    </a>
+    <a href="https://instagram.com/codeeasy.dev" target="_blank">
+        <img src="https://img.shields.io/badge/-@codeeasy.dev-ff69b4?logo=Instagram&logoColor=white&link=https://instagram.com/codeeasy.dev" />
+    </a>
+    <a href="mailto:felipe@codeeasy.com.br" target="_blank">
+        <img src="https://img.shields.io/badge/-contato%40codeeasy.com.br-red?logo=Gmail&logoColor=white&link=mailto:contato@codeeasy.com.br" />
+    </a>
 </p>
 
 ## Requisitos para o curso
@@ -36,6 +48,7 @@
 * Estruturas de repetição;
 * Funções;
 * Arrays;
+* Tipos de dados;
 * Projeto prático.
 
 ## Autor
@@ -47,7 +60,9 @@
 </a>
 <br />
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?logo=Facebook&logoColor=white&link=https://facebook.com/codeeasy.com.br)](https://facebook.com/codeeasy.com.br)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&link=https://youtube.com/codeeasy)](https://youtube.com/codeeasy)
-[![Instagram Badge](https://img.shields.io/badge/-@codeeasy.dev-ff69b4?logo=Instagram&logoColor=white&link=https://instagram.com/codeeasy.dev)](https://instagram.com/codeeasy.dev)
-[![Gmail Badge](https://img.shields.io/badge/-felipe%40codeeasy.com.br-red?logo=Gmail&logoColor=white&link=mailto:felipe@codeeasy.com.br)](mailto:felipe@codeeasy.com.br)
+<a href="https://www.linkedin.com/in/felipe-renan-vieira/" target="_blank">
+    <img src="https://img.shields.io/badge/-Felipe%20Renan%20Vieira-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-renan-vieira/" />
+</a>
+<a href="mailto:felipe@codeeasy.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/-felipe%40codeeasy.com.br-red?logo=Gmail&logoColor=white&link=mailto:felipe@codeeasy.com.br" />
+</a>
