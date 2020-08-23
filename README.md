@@ -40,7 +40,7 @@
 
 ## Autor
 
-<a href="https:/github.com/frv-dev" style="text-decoration: none;">
+<a href="https://github.com/frv-dev" style="text-decoration: none;">
     <img src="https://avatars3.githubusercontent.com/u/20212780?s=460&u=31b263296ed9edab65b88e8a7ffbe9b29fef0664&v=4" width="100px;" alt=""/>
     <br />
     <b>Felipe Vieira</b>
