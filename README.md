@@ -21,9 +21,10 @@
     <a href="mailto:felipe@codeeasy.com.br" target="_blank">
         <img src="https://img.shields.io/badge/-contato%40codeeasy.com.br-red?logo=Gmail&logoColor=white&link=mailto:contato@codeeasy.com.br" />
     </a>
+    <a href="https://repl.it/github/codeeasy-dev/php-para-iniciantes" target="_blank">
+        <img src="https://repl.it/badge/github/codeeasy-dev/php-para-iniciantes" />
+    </a>
 </p>
-
-[![Run on Repl.it](https://repl.it/badge/github/codeeasy-dev/php-para-iniciantes)](https://repl.it/github/codeeasy-dev/php-para-iniciantes)
 
 ## Requisitos para o curso
 
