@@ -23,6 +23,8 @@
     </a>
 </p>
 
+[![Run on Repl.it](https://repl.it/badge/github/codeeasy-dev/php-para-iniciantes)](https://repl.it/github/codeeasy-dev/php-para-iniciantes)
+
 ## Requisitos para o curso
 
 * Conhecimentos básicos em lógica de programação.

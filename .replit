@@ -1,0 +1,2 @@
+language = "php_cli"
+run = "php index.php"
