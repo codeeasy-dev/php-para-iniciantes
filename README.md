@@ -35,21 +35,24 @@
 
 ## Status do Curso
 
-0% completo.
+30% completo.
 
 ## Sumário
 
 * O que é o PHP?;
 * Configuração do ambiente no Windows;
 * Configuração do ambiente no Linux;
-* Primeiro programa com PHP;
-* Variáveis e contantes;
+* Primeiro projeto;
+* Variáveis e constantes;
+* Tipos de dados;
+* Strings;
+* Operadores lógicos;
 * Estruturas condicionais;
 * Estruturas de repetição;
 * Funções;
-* Arrays;
-* Tipos de dados;
-* Projeto prático.
+* Array;
+* Projeto prático: Jogo da Velha - parte 1;
+* Projeto prático: Jogo da Velha - parte 2;
 
 ## Autor
 
