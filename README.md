@@ -35,7 +35,7 @@
 
 ## Status do Curso
 
-30% completo.
+47% completo.
 
 ## Sumário
 
@@ -45,6 +45,7 @@
 * Primeiro projeto;
 * Variáveis e constantes;
 * Tipos de dados;
+* Operadores aritméticos;
 * Strings;
 * Operadores lógicos;
 * Estruturas condicionais;
