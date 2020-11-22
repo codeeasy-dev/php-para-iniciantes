@@ -47,6 +47,7 @@
 * Tipos de dados;
 * Operadores aritméticos;
 * Strings;
+* Operadores de comparação;
 * Operadores lógicos;
 * Estruturas condicionais;
 * Estruturas de repetição;
