@@ -50,9 +50,9 @@
 * Operadores de comparação;
 * Operadores lógicos;
 * Estruturas condicionais;
+* Array;
 * Estruturas de repetição;
 * Funções;
-* Array;
 * Projeto prático: Jogo da Velha - parte 1;
 * Projeto prático: Jogo da Velha - parte 2;
 
