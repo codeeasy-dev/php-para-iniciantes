@@ -35,7 +35,7 @@
 
 ## Status do Curso
 
-47% completo.
+81.25% completo.
 
 ## Sumário
 
@@ -50,7 +50,7 @@
 * Operadores de comparação;
 * Operadores lógicos;
 * Estruturas condicionais;
-* Array;
+* Arrays;
 * Estruturas de repetição;
 * Funções;
 * Projeto prático: Jogo da Velha - parte 1;
