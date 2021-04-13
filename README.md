@@ -35,7 +35,7 @@
 
 ## Status do Curso
 
-87.5% completo.
+100% completo.
 
 ## Sumário
 
